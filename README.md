@@ -18,40 +18,38 @@ Second pass: Active learning. Now watch again—but differently.
 Open a notebook. Open a Jupyter notebook or Python file. Have both ready.
 
 This time:
-Pause constantly. Every time something important happens, stop.
-Take full notes. Write concepts in your own words. Don't copy—translate.
-Type out all the code yourself. Don't copy-paste. Type every character. This forces your brain to process it.
-Break stuff. After you get code working, change things. What happens if you modify this parameter? What if you remove this line?
-Try stuff. Have a random idea? Try it. See what happens.
+•	Pause constantly: Every time something important happens, stop.
+•	Take full notes: Write concepts in your own words. Don't copy—translate.
+•	Type out all the code yourself: Don't copy-paste. Type every character. This forces your brain to process it.
+•	Break stuff: After you get code working, change things. What happens if you modify this parameter? What if you remove this line?
+•	Try stuff: Have a random idea? Try it. See what happens.
+•	Jot down interesting observations: Notice something unexpected? Write it down.
 
-Jot down interesting observations. Notice something unexpected? Write it down.
-
-This second pass will take 2-3x longer than the video itself. That's the point. You're not watching—you're learning.
+This second pass will take 2-3x longer than the video itself. That's the point. You're not watching, you're learning.
 
 The people who become great ML engineers aren't smarter than you. They just put in this kind of deliberate practice while everyone else watches videos on 2x speed.
 
 What You're Actually Learning For
 
 Before you start, understand what an ML engineer actually does.
-An ML engineer is not a data scientist. Data scientists analyze data and build models to answer business questions. ML engineers build the systems that make those models work in production—at scale, reliably, efficiently.
+An ML engineer is not a data scientist. Data scientists analyze data and build models to answer business questions. ML engineers build the systems that make those models work in production at scale, reliably, efficiently.
 An ML engineer is not a researcher. Researchers push the boundaries of what's possible. ML engineers take what researchers discover and make it actually useful.
 
 What ML engineers actually do:
 
-Train and fine-tune models
-Build data pipelines that feed models
-Deploy models to production systems
-Optimize models for speed and cost
-Monitor model performance and handle drift
-Integrate AI capabilities into applications
+•	Train and fine-tune models
+•	Build data pipelines that feed models
+•	Deploy models to production systems
+•	Optimize models for speed and cost
+•	Monitor model performance and handle drift
+•	Integrate AI capabilities into applications
 
 What you need to know:
 
-Programming (Python, primarily)
-Linear algebra and calculus (enough to understand what's happening)
-How neural networks work—not just conceptually, but mechanically
-The transformer architecture that powers everything modern
-
-How to actually implement these things in code
+•	Programming (Python, primarily)
+•	Linear algebra and calculus (enough to understand what's happening)
+•	How neural networks work—not just conceptually, but mechanically
+•	The transformer architecture that powers everything modern
+•	How to actually implement these things in code
 
 The last point is critical. You can't become an ML engineer by watching videos passively. You have to build things. Break things. Understand things at the code level.
