@@ -1,59 +1,59 @@
-If you follow this guide exactly, step by step, you’ll gain the ability to train large language models on your own.
+## If you follow this guide exactly, step by step, you’ll gain the ability to train large language models on your own.
 
-The outcome is simple: complete every step as described. No shortcuts. No skipping. Do that, and you’ll develop the skills of a real machine learning engineer.
+**The outcome is simple:** complete every step as described. No shortcuts. No skipping. Do that, and you’ll develop the skills of a real machine learning engineer.
 
-Stop Consuming Learning Content Like Entertainment
+Stop Consuming Learning Content Like Entertainment!
 
 Most people treat technical videos the same way they treat Netflix: watch, maybe scribble a few notes, move on. A few days later, they remember almost nothing.
 
 That approach does not work for learning technical systems.
 
-There is only one reliable way to absorb complex material: two deliberate passes through every video. It feels slow. It isn’t. It’s the fastest path to real understanding.
+There is only one reliable way to absorb complex material: *two deliberate passes through every video. It feels slow. It isn’t. It’s the fastest path to real understanding.*
 
-Pass One: Build the Big Picture
+### Pass One: Build the Big Picture
 
 Watch the entire video from beginning to end.
 
-Don’t pause
+***Don’t pause***
 
-Don’t take notes
+***Don’t take notes***
 
-Don’t code along
+***Don’t code along***
 
-Don’t obsess over details
+***Don’t obsess over details***
 
 Your only goal is to understand the structure:
 What topics are covered? How do ideas relate? What’s the overall flow?
 
 Think of this as creating a mental framework. The details will fit into it later.
 
-Pass Two: Learn Actively
+### Pass Two: Learn Actively
 
 Now watch the same video again—but this time, you’re working.
 
 Open a notebook. Open a Python file or Jupyter notebook. Be ready to engage.
 
-During this pass:
+***During this pass:***
 
-Pause frequently whenever something important appears
+**Pause frequently whenever something important appears**
 
-Write notes in your own words—rephrase, don’t copy
+**Write notes in your own words rephrase, don’t copy**
 
-Type every line of code manually (no copy-paste)
+**Type every line of code manually (no copy-paste)**
 
-Run the code and then deliberately change it
+**Run the code and then deliberately change it**
 
-Remove lines, tweak parameters, test edge cases
+**Remove lines, tweak parameters, test edge cases**
 
-Experiment with ideas that come to mind
+**Experiment with ideas that come to mind**
 
-If something behaves differently than expected, write it down. Curiosity here is not optional—it’s the learning process.
+**If something behaves differently than expected, write it down. Curiosity here is not optional—it’s the learning process.**
 
-This second pass will take two to three times longer than the video length. That’s intentional. You’re no longer watching content—you’re building skill.
+This second pass will take two to three times longer than the video length. That’s intentional. You’re no longer watching content you’re building skill.
 
 The difference between average learners and excellent ML engineers isn’t intelligence. It’s disciplined, intentional practice while others rush through content at double speed.
 
-Know What You’re Training For
+***Know What You’re Training For***
 
 Before you begin, be clear about the role you’re aiming for.
 
@@ -66,19 +66,19 @@ They turn models into reliable, scalable systems that run in real-world applicat
 
 What ML Engineers Actually Work On
 
-Training and fine-tuning machine learning models
+***Training and fine-tuning machine learning models***
 
-Designing data pipelines that feed those models
+***Designing data pipelines that feed those models***
 
-Deploying models into production environments
+***Deploying models into production environments***
 
-Improving inference speed and reducing costs
+***Improving inference speed and reducing costs***
 
-Monitoring performance and handling data drift
+***Monitoring performance and handling data drift***
 
-Integrating AI models into applications and services
+***Integrating AI models into applications and services***
 
-Core Skills You Must Develop
+## Core Skills You Must Develop
 
 Strong Python programming
 
