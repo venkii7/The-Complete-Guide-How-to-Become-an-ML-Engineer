@@ -80,15 +80,15 @@ What ML Engineers Actually Work On
 
 ## Core Skills You Must Develop
 
-Strong Python programming
+**-** Strong Python programming
 
-Enough linear algebra and calculus to understand model behavior
+**-** Enough linear algebra and calculus to understand model behavior
 
-A deep, mechanical understanding of neural networks
+**-** A deep, mechanical understanding of neural networks
 
-Mastery of transformers, the foundation of modern AI
+**-** Mastery of transformers, the foundation of modern AI
 
-Most importantly: implementing everything in real code
+**-** Most importantly: implementing everything in real code
 
 That last point matters more than anything else.
 
