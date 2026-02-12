@@ -1,55 +1,98 @@
-This is not engagement bait. If you do everything in this guide, you will be able to train large language models on your own.
+If you follow this guide exactly, step by step, you’ll gain the ability to train large language models on your own.
 
-The key is to get through every step of this guide, step by step, following everything I prescribe. If you do that, you'll be an ML engineer.
+The outcome is simple: complete every step as described. No shortcuts. No skipping. Do that, and you’ll develop the skills of a real machine learning engineer.
 
-I've taught millions of people how to code (yes, really). Here's everything I've learned about the optimal learning path for ML/AI specifically. If it seems simple, just commit to getting it done.
+Stop Consuming Learning Content Like Entertainment
 
-Stop Learning Like It's Netflix
+Most people treat technical videos the same way they treat Netflix: watch, maybe scribble a few notes, move on. A few days later, they remember almost nothing.
 
-The biggest mistake people make with educational videos is treating them like entertainment. Watch passively, maybe take some notes, move on. A week later, everything's gone.
+That approach does not work for learning technical systems.
 
-That's not how you learn technical material.
-You need two passes through every video. This feels slow. It's not. It's the only thing that actually works.
+There is only one reliable way to absorb complex material: two deliberate passes through every video. It feels slow. It isn’t. It’s the fastest path to real understanding.
 
-First pass: Just watch. Start to finish. Don't take notes. Don't pause to code along. Don't try to understand every detail. Your goal is to get the shape of the material in your head. What are the main concepts? How do they connect? You're building a mental scaffold that the details will hang on later.
+Pass One: Build the Big Picture
 
-Second pass: Active learning. Now watch again—but differently.
+Watch the entire video from beginning to end.
 
-Open a notebook. Open a Jupyter notebook or Python file. Have both ready.
+Don’t pause
 
-This time:
-•	Pause constantly: Every time something important happens, stop.
-•	Take full notes: Write concepts in your own words. Don't copy—translate.
-•	Type out all the code yourself: Don't copy-paste. Type every character. This forces your brain to process it.
-•	Break stuff: After you get code working, change things. What happens if you modify this parameter? What if you remove this line?
-•	Try stuff: Have a random idea? Try it. See what happens.
-•	Jot down interesting observations: Notice something unexpected? Write it down.
+Don’t take notes
 
-This second pass will take 2-3x longer than the video itself. That's the point. You're not watching, you're learning.
+Don’t code along
 
-The people who become great ML engineers aren't smarter than you. They just put in this kind of deliberate practice while everyone else watches videos on 2x speed.
+Don’t obsess over details
 
-What You're Actually Learning For
+Your only goal is to understand the structure:
+What topics are covered? How do ideas relate? What’s the overall flow?
 
-Before you start, understand what an ML engineer actually does.
-An ML engineer is not a data scientist. Data scientists analyze data and build models to answer business questions. ML engineers build the systems that make those models work in production at scale, reliably, efficiently.
-An ML engineer is not a researcher. Researchers push the boundaries of what's possible. ML engineers take what researchers discover and make it actually useful.
+Think of this as creating a mental framework. The details will fit into it later.
 
-What ML engineers actually do:
+Pass Two: Learn Actively
 
-•	Train and fine-tune models
-•	Build data pipelines that feed models
-•	Deploy models to production systems
-•	Optimize models for speed and cost
-•	Monitor model performance and handle drift
-•	Integrate AI capabilities into applications
+Now watch the same video again—but this time, you’re working.
 
-What you need to know:
+Open a notebook. Open a Python file or Jupyter notebook. Be ready to engage.
 
-•	Programming (Python, primarily)
-•	Linear algebra and calculus (enough to understand what's happening)
-•	How neural networks work—not just conceptually, but mechanically
-•	The transformer architecture that powers everything modern
-•	How to actually implement these things in code
+During this pass:
 
-The last point is critical. You can't become an ML engineer by watching videos passively. You have to build things. Break things. Understand things at the code level.
+Pause frequently whenever something important appears
+
+Write notes in your own words—rephrase, don’t copy
+
+Type every line of code manually (no copy-paste)
+
+Run the code and then deliberately change it
+
+Remove lines, tweak parameters, test edge cases
+
+Experiment with ideas that come to mind
+
+If something behaves differently than expected, write it down. Curiosity here is not optional—it’s the learning process.
+
+This second pass will take two to three times longer than the video length. That’s intentional. You’re no longer watching content—you’re building skill.
+
+The difference between average learners and excellent ML engineers isn’t intelligence. It’s disciplined, intentional practice while others rush through content at double speed.
+
+Know What You’re Training For
+
+Before you begin, be clear about the role you’re aiming for.
+
+An ML engineer is not a data analyst. Data scientists focus on insights, experiments, and answering business questions.
+
+An ML engineer is not a research scientist. Researchers explore new algorithms and publish findings.
+
+ML engineers do something different:
+They turn models into reliable, scalable systems that run in real-world applications.
+
+What ML Engineers Actually Work On
+
+Training and fine-tuning machine learning models
+
+Designing data pipelines that feed those models
+
+Deploying models into production environments
+
+Improving inference speed and reducing costs
+
+Monitoring performance and handling data drift
+
+Integrating AI models into applications and services
+
+Core Skills You Must Develop
+
+Strong Python programming
+
+Enough linear algebra and calculus to understand model behavior
+
+A deep, mechanical understanding of neural networks
+
+Mastery of transformers, the foundation of modern AI
+
+Most importantly: implementing everything in real code
+
+That last point matters more than anything else.
+
+You cannot become an ML engineer by watching explanations alone. You become one by writing code, breaking systems, debugging failures, and understanding exactly why things work.
+
+Passive learning creates familiarity.
+Active construction creates competence.
