@@ -35,9 +35,9 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 Link: 
 https://www.youtube.com/watch?v=tIeHLnjs5U8
 
-This video walks through the calculus behind backpropagation—the chain rule in action.
+*This video walks through the calculus behind backpropagation—the chain rule in action.*
 
-Chapter 5: Large Language Models explained briefly
+### Chapter 5: Large Language Models explained briefly
 
 Link: 
 https://www.youtube.com/watch?v=LPZh9BOjkQs
