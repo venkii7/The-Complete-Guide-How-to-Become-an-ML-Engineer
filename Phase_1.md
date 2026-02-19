@@ -1,26 +1,26 @@
-Build Intuition with 3Blue1Brown
+### Build Intuition with 3Blue1Brown
 Grant Sanderson is the best math educator on the internet. His neural networks series takes complex concepts and makes them visually intuitive.
 Start here. Even if you have some ML background, start here. The visual intuition you'll build is invaluable.
 
-Chapter 1: what is a Neural Network?
+**Chapter 1: what is a Neural Network?**
 
 Link: 
 https://www.youtube.com/watch?v=aircAruvnKk
 
-This video tackles the fundamental question: what is a neural network, really?
-It walks through the building blocks—neurons, layers, weights, biases, and activation functions—and shows how they interact.
+*This video tackles the fundamental question: what is a neural network, really?*
+*It walks through the building blocks neurons, layers, weights, biases, and activation functions—and shows how they interact.*
 
-What makes it especially effective is the visual explanation. The animations turn ideas that are usually abstract into something you can actually see and reason about.
+*What makes it especially effective is the visual explanation. The animations turn ideas that are usually abstract into something you can actually see and reason about.*
 
-Chapter 2: Gradient descent, how neural networks learn
+**Chapter 2: Gradient descent, how neural networks learn**
 
 Link: 
 https://www.youtube.com/watch?v=IHZwWFHWa-w
 
-How does a network actually learn?
-This video breaks down gradient descent, the fundamental optimization method behind modern deep learning. It shows, step by step, how a model updates its weights to improve performance over time.
+*How does a network actually learn?
+This video breaks down gradient descent, the fundamental optimization method behind modern deep learning. It shows, step by step, how a model updates its weights to improve performance over time.*
 
-One of the most useful parts is the visualization of the loss (cost) function. Once you truly grasp why the objective is to minimize this function—and how gradient descent moves the model in that direction—the rest of machine learning concepts start to click much more naturally.
+*One of the most useful parts is the visualization of the loss (cost) function. Once you truly grasp why the objective is to minimize this function—and how gradient descent moves the model in that direction—the rest of machine learning concepts start to click much more naturally.*
 
 Chapter 3: What is backpropagation really doing?
 
