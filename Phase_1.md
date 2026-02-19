@@ -42,10 +42,10 @@ https://www.youtube.com/watch?v=tIeHLnjs5U8
 Link: 
 https://www.youtube.com/watch?v=LPZh9BOjkQs
 
-A bridge to modern AI. This video provides a lightweight intro to LLMs—what they are, how they relate to the neural networks you just learned about.
-Think of this as a preview. You'll go much deeper with Karpathy later. For now, you're just connecting your foundational knowledge to the systems that power ChatGPT and Claude.
+*A bridge to modern AI. This video provides a lightweight intro to LLMs—what they are, how they relate to the neural networks you just learned about.
+Think of this as a preview. You'll go much deeper with Karpathy later. For now, you're just connecting your foundational knowledge to the systems that power ChatGPT and Claude.*
 
-Chapter 6: Transformers, the tech behind LLMs
+### Chapter 6: Transformers, the tech behind LLMs
 
 Link: 
 https://www.youtube.com/watch?v=wjZofJX0v4M
