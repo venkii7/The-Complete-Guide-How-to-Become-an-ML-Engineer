@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=aircAruvnKk
 
 *What makes it especially effective is the visual explanation. The animations turn ideas that are usually abstract into something you can actually see and reason about.*
 
-**Chapter 2: Gradient descent, how neural networks learn**
+### Chapter 2: Gradient descent, how neural networks learn
 
 Link: 
 https://www.youtube.com/watch?v=IHZwWFHWa-w
@@ -22,7 +22,7 @@ This video breaks down gradient descent, the fundamental optimization method beh
 
 *One of the most useful parts is the visualization of the loss (cost) function. Once you truly grasp why the objective is to minimize this function—and how gradient descent moves the model in that direction—the rest of machine learning concepts start to click much more naturally.*
 
-Chapter 3: What is backpropagation really doing?
+### Chapter 3: What is backpropagation really doing?
 
 Link: 
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
