@@ -27,10 +27,10 @@ This video breaks down gradient descent, the fundamental optimization method beh
 Link: 
 https://www.youtube.com/watch?v=Ilg3gGewQ5U
 
-This video explains the intuition—what's actually happening when a network learns.
+*This video explains the intuition—what's actually happening when a network learns.*
 
 
-Chapter 4: Backpropagation calculus
+### Chapter 4: Backpropagation calculus
 
 Link: 
 https://www.youtube.com/watch?v=tIeHLnjs5U8
