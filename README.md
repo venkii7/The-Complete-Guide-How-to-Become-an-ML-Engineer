@@ -1,4 +1,4 @@
-## If you follow this guide exactly, step by step, you’ll gain the ability to train large language models on your own.
+## IF you follow this guide exactly, step by step, you’ll gain the ability to train large language models on your own.
 
 **The outcome is simple:** complete every step as described. No shortcuts. No skipping. Do that, and you’ll develop the skills of a real machine learning engineer.
 
