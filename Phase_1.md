@@ -1,8 +1,8 @@
-### Build Intuition with 3Blue1Brown
+## Build Intuition with 3Blue1Brown
 Grant Sanderson is the best math educator on the internet. His neural networks series takes complex concepts and makes them visually intuitive.
 Start here. Even if you have some ML background, start here. The visual intuition you'll build is invaluable.
 
-**Chapter 1: what is a Neural Network?**
+### Chapter 1: what is a Neural Network?
 
 Link: 
 https://www.youtube.com/watch?v=aircAruvnKk
