@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=wjZofJX0v4M
 Link: 
 https://www.youtube.com/watch?v=eMlx5fFNoYc
 
-Attention is the key mechanism inside transformers. This video breaks it down step by step.
+*Attention is the key mechanism inside transformers. This video breaks it down step by step.*
 
 Chapter 8: How might LLMs store facts
 
