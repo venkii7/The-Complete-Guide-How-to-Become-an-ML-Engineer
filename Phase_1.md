@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=eMlx5fFNoYc
 Link: 
 https://www.youtube.com/watch?v=9-Jl0dxWQs8
 
-This video unpacks the multilayer perceptrons in a transformer—the parts of the network that seem to store factual knowledge.
+*This video unpacks the multilayer perceptrons in a transformer—the parts of the network that seem to store factual knowledge.*
 
 How do AI images and videos actually work?
 
