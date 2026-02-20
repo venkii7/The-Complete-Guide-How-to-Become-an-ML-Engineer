@@ -50,9 +50,9 @@ Think of this as a preview. You'll go much deeper with Karpathy later. For now, 
 Link: 
 https://www.youtube.com/watch?v=wjZofJX0v4M
 
-The transformer architecture is the breakthrough that made modern AI. This video gives you a visual introduction to how transformers work.
+*The transformer architecture is the breakthrough that made modern AI. This video gives you a visual introduction to how transformers work.*
 
-Chapter 7: Attention in transformers, step-by-step
+### Chapter 7: Attention in transformers, step-by-step
 
 Link: 
 https://www.youtube.com/watch?v=eMlx5fFNoYc
