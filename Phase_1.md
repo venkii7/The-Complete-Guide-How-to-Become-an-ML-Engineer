@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=eMlx5fFNoYc
 
 *Attention is the key mechanism inside transformers. This video breaks it down step by step.*
 
-Chapter 8: How might LLMs store facts
+### Chapter 8: How might LLMs store facts
 
 Link: 
 https://www.youtube.com/watch?v=9-Jl0dxWQs8
