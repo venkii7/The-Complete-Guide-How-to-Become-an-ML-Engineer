@@ -71,5 +71,5 @@ https://www.youtube.com/watch?v=9-Jl0dxWQs8
 Link: 
 https://www.youtube.com/watch?v=iv-5mZ_9CPY
 
-This video covering diffusion models—the tech behind image generators like DALL-E, Midjourney, and Stable Diffusion.
+*This video covering diffusion models—the tech behind image generators like DALL-E, Midjourney, and Stable Diffusion.*
 
