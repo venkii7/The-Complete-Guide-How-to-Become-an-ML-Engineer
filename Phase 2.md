@@ -13,10 +13,12 @@ Link: https://youtu.be/VMj-3S1tku0
 
 Duration: 2 hours 25 minutes
 
-This is where it gets real.
+*This is where it gets real.
 Karpathy builds an entire automatic differentiation engine from scratch. From nothing to a working neural network that can learn—in pure Python, no libraries.
-This video is legendary in the ML community. By the end, you'll understand backpropagation at a level most ML practitioners never reach. You'll have built it yourself.
-Take your time with this one. Type every line of code. Build micrograd yourself. This is the foundation everything else builds on.
+This video is legendary in the ML community. By the end, you'll understand backpropagation at a level most ML practitioners never reach. You'll have built it yourself.*
+
+*Take your time with this one. Type every line of code. Build micrograd yourself. This is the foundation everything else builds on.*
+
 Video 2: Building makemore
 Link: https://youtu.be/PaCmpygFfXo
 Duration: 1 hour 57 minutes
