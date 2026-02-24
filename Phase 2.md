@@ -1,11 +1,18 @@
-Phase 2: Build Implementation Skills with Karpathy
+## Phase 2: Build Implementation Skills with Karpathy
+
 If 3Blue1Brown gives you the intuition, Andrej Karpathy gives you the implementation.
-Karpathy was the founding member of OpenAI and former Senior Director of AI at Tesla. He's one of the most influential ML educators alive. This course is how you learn to actually build things.
-Prerequisites: You should be comfortable with Python. You need basic math—derivatives, gaussian distributions, that kind of thing. If you've finished the 3Blue1Brown series, you're ready.
-Time investment: ~30-40 hours total
-Video 1: Building micrograd
+Karpathy was the founding member of OpenAI and former Senior Director of AI at Tesla. He's one of the most influential ML educators alive.
+
+This course is how you learn to actually build things.
+
+*Prerequisites: You should be comfortable with Python. You need basic math—derivatives, gaussian distributions, that kind of thing. If you've finished the 3Blue1Brown series, you're ready.*
+
+### Time investment: ~30-40 hours total
+## Video 1: Building micrograd
 Link: https://youtu.be/VMj-3S1tku0
+
 Duration: 2 hours 25 minutes
+
 This is where it gets real.
 Karpathy builds an entire automatic differentiation engine from scratch. From nothing to a working neural network that can learn—in pure Python, no libraries.
 This video is legendary in the ML community. By the end, you'll understand backpropagation at a level most ML practitioners never reach. You'll have built it yourself.
