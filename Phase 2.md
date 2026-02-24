@@ -19,12 +19,15 @@ This video is legendary in the ML community. By the end, you'll understand backp
 
 *Take your time with this one. Type every line of code. Build micrograd yourself. This is the foundation everything else builds on.*
 
-Video 2: Building makemore
+## Video 2: Building makemore
 Link: https://youtu.be/PaCmpygFfXo
+
 Duration: 1 hour 57 minutes
-Now you build a character-level language model. Given some text, the model learns to generate more text like it.
+
+*Now you build a character-level language model. Given some text, the model learns to generate more text like it.
 This introduces you to language modeling—the core task behind LLMs. You'll implement it from scratch, understanding every piece.
-By the end, you'll have a model that can generate fake names, fake words, fake whatever you train it on. More importantly, you'll understand how it does it.
+By the end, you'll have a model that can generate fake names, fake words, fake whatever you train it on. More importantly, you'll understand how it does it.* 
+
 Video 3: Building makemore Part 2: MLP
 Link: https://youtu.be/TCH_1BHY58I
 Duration: 1 hour 15 minutes
