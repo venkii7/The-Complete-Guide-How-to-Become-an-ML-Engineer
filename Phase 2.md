@@ -28,11 +28,13 @@ Duration: 1 hour 57 minutes
 This introduces you to language modeling—the core task behind LLMs. You'll implement it from scratch, understanding every piece.
 By the end, you'll have a model that can generate fake names, fake words, fake whatever you train it on. More importantly, you'll understand how it does it.* 
 
-Video 3: Building makemore Part 2: MLP
-Link: https://youtu.be/TCH_1BHY58I
+## Video 3: Building makemore Part 2: MLP
+Link: https://youtu.be/TCH_1BHY58I 
+
 Duration: 1 hour 15 minutes
-You rebuild makemore using a multi-layer perceptron (MLP). This is the architecture described in a famous Bengio et al. paper.
-Now you're implementing ideas from actual research papers. This is what real ML engineering looks like—reading papers and implementing them.
+
+*You rebuild makemore using a multi-layer perceptron (MLP). This is the architecture described in a famous Bengio et al. paper.
+Now you're implementing ideas from actual research papers. This is what real ML engineering looks like—reading papers and implementing them.*
 Video 4: Building makemore Part 3: Activations & Gradients, BatchNorm
 Link: https://youtu.be/P6sfmUTpUmc
 Duration: 1 hour 55 minutes
