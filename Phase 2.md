@@ -42,4 +42,4 @@ Link: https://youtu.be/P6sfmUTpUmc
 Duration: 1 hour 55 minutes
 
 *This video dives into the internals of neural network training. Activations, gradients, why things go wrong, and how to fix them.*
-Batch normalization is one of those techniques that makes training actually work. You'll understand why it exists and how to implement it.
+*Batch normalization is one of those techniques that makes training actually work. You'll understand why it exists and how to implement it.*
