@@ -35,8 +35,11 @@ Duration: 1 hour 15 minutes
 
 *You rebuild makemore using a multi-layer perceptron (MLP). This is the architecture described in a famous Bengio et al. paper.
 Now you're implementing ideas from actual research papers. This is what real ML engineering looks like—reading papers and implementing them.*
-Video 4: Building makemore Part 3: Activations & Gradients, BatchNorm
+
+## Video 4: Building makemore Part 3: Activations & Gradients, BatchNorm
 Link: https://youtu.be/P6sfmUTpUmc
+
 Duration: 1 hour 55 minutes
-This video dives into the internals of neural network training. Activations, gradients, why things go wrong, and how to fix them.
+
+*This video dives into the internals of neural network training. Activations, gradients, why things go wrong, and how to fix them.*
 Batch normalization is one of those techniques that makes training actually work. You'll understand why it exists and how to implement it.
