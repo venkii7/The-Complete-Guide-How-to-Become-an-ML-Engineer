@@ -43,3 +43,9 @@ Duration: 1 hour 55 minutes
 
 *This video dives into the internals of neural network training. Activations, gradients, why things go wrong, and how to fix them.*
 *Batch normalization is one of those techniques that makes training actually work. You'll understand why it exists and how to implement it.*
+
+Video 5: Building makemore Part 4: Becoming a Backprop Ninja
+Link: https://youtu.be/q8SA3rM6ckI
+Duration: 1 hour 55 minutes
+This is where Karpathy turns you into someone who truly understands backpropagation.
+You'll implement backprop manually through complex operations. By the end, you'll be able to derive gradients through anything. This skill separates ML engineers from ML users.
