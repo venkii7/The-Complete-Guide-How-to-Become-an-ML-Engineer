@@ -47,5 +47,6 @@ Duration: 1 hour 55 minutes
 ## Video 5: Building makemore Part 4: Becoming a Backprop Ninja
 Link: https://youtu.be/q8SA3rM6ckI
 Duration: 1 hour 55 minutes
-This is where Karpathy turns you into someone who truly understands backpropagation.
+
+*This is where Karpathy turns you into someone who truly understands backpropagation.*
 You'll implement backprop manually through complex operations. By the end, you'll be able to derive gradients through anything. This skill separates ML engineers from ML users.
